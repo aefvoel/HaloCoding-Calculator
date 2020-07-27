@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="text_1">1</string>
+    <string name="text_2">2</string>
+    <string name="text_3">3</string>
+    <string name="text_4">4</string>
+    <string name="text_5">5</string>
+    <string name="text_6">6</string>
+    <string name="text_7">7</string>
+    <string name="text_8">8</string>
+    <string name="text_9">9</string>
+    <string name="text_0">0</string>
+    <string name="text_plus">+</string>
+    <string name="text_min">-</string>
+    <string name="text_mul">x</string>
+    <string name="text_div">/</string>
+    <string name="text_equal">=</string>
+    <string name="text_clear">Clear</string>
+    <string name="text_about">About</string>
+    <string name="text_name">Toriq Wahid Syaefullah</string>
+    <string name="text_about_me">About Me</string>
+    <string name="about_me">Im hardworking, responsible and dedicated person. I love to explore new things and have a big hunger for new knowledge.</string>
+    <string name="find_me">Find me on social media!</string>
+    <string name="btn_facebook">Facebook</string>
+    <string name="btn_twitter">Twitter</string>
+    <string name="btn_instagram">Instagram</string>
+
+</resources>
